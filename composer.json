@@ -1,0 +1,16 @@
+{
+	"keywords" : [
+		"habbo"
+	],
+	"autoload" : {
+		"psr-0" : {
+			"Splitice" : "src"
+		}
+	},
+	"name" : "splitice/habbo-tools",
+	"type" : "library",
+	"description" : "tools for php habbo development",
+	"require" : {
+		"php" : ">=5.4"
+	}
+}
